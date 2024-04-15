@@ -1,4 +1,4 @@
-# <p align="center">Apollo 11 VR Museum</p>
+# <p align="center">Fashion Forecast</p>
 
 ![An image of an app mock-up for the Fashion Forecast app. An outfit suggestion is provided as well as the hourly forecast.](fashion-forecast-long.png)
 
