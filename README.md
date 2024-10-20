@@ -12,7 +12,7 @@ Are you tired of staring at your closet, pondering what to wear, only to step ou
 
 ## 📚 Tutorial
 
-The written tutorial for this sample is available on my [website](https://www.vogueandcode.com/ai-perspectives-posts/fashion-forecast)!
+The written tutorial for this sample will be available soon!
 
 ## 📦 Resources
 
