@@ -10,10 +10,6 @@ Are you tired of staring at your closet, pondering what to wear, only to step ou
 - [Weather API](https://www.weatherapi.com/) access
 - Code editor ([Visual Studio Code](https://code.visualstudio.com/) is always a fabulous choice!)
 
-## 📚 Tutorial
-
-The written tutorial for this sample will be available soon!
-
 ## 📦 Resources
 
 - [OpenAI Developer Docs](https://platform.openai.com/docs/overview)
